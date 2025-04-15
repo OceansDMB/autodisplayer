@@ -103,7 +103,7 @@ namespace Onbichi_dev.Views
                     if (_lastContentHash != null && _lastContentHash != currentContentHash)
                     {
                         // 내용이 변경되었을 때 새로고침
-                        webView.CoreWebView2.Reload();
+//                        webView.CoreWebView2.Reload();
                     }
 
                     _lastContentHash = currentContentHash;

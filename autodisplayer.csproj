@@ -17,4 +17,8 @@
 		<Reference Include="System.Windows.Forms" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<Reference Include="System.Deployment" />
+	</ItemGroup>
+	
 </Project>
